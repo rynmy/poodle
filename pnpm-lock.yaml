@@ -11,6 +11,9 @@ importers:
       '@tauri-apps/api':
         specifier: 2.0.0-rc.6
         version: 2.0.0-rc.6
+      '@tauri-apps/plugin-fs':
+        specifier: 2.0.0-rc.2
+        version: 2.0.0-rc.2
     devDependencies:
       '@iconify/json':
         specifier: ^2.2.254
@@ -30,9 +33,6 @@ importers:
       '@tauri-apps/cli':
         specifier: 2.0.0-rc.17
         version: 2.0.0-rc.17
-      '@tauri-apps/plugin-fs':
-        specifier: 2.0.0-rc.2
-        version: 2.0.0-rc.2
       '@types/eslint':
         specifier: ^9.6.0
         version: 9.6.1
